@@ -31,7 +31,7 @@ Acredito que a IA bem aplicada resolve problemas reais — e é isso que busco e
 
 ## 🛠️ Stack técnica
 
-python
+'''python
 stack = {
     "languages":  ["Python"],
     "ai_ml":      ["PyTorch", "scikit-learn"],
@@ -39,7 +39,7 @@ stack = {
     "data":       ["pandas", "NumPy", "Matplotlib"],
     "tools":      ["Git", "Linux", "VS Code", "Jupyter"],
 }
-
+'''
 
 ---
 
